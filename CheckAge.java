@@ -16,7 +16,7 @@ public class CheckAge {
 		} catch (AgeException e) {
 			System.out.println(e);
 		}
-		System.out.println("End of the program");
+		System.out.println("End Program");
 	}
 
 }
